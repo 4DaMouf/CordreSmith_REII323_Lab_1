@@ -1,1 +1,1 @@
-Lab assignment 1 of Cordre Smith!
+Cordre Smith's main Repository for REII 423
